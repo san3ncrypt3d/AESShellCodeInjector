@@ -1,0 +1,6 @@
+C:\Users\san3n\source\repos\AESInject\AESInject\bin\x64\Release\AESInject.exe.config
+C:\Users\san3n\source\repos\AESInject\AESInject\bin\x64\Release\AESInject.exe
+C:\Users\san3n\source\repos\AESInject\AESInject\bin\x64\Release\AESInject.pdb
+C:\Users\san3n\source\repos\AESInject\AESInject\obj\x64\Release\AESInject.csproj.CoreCompileInputs.cache
+C:\Users\san3n\source\repos\AESInject\AESInject\obj\x64\Release\AESInject.exe
+C:\Users\san3n\source\repos\AESInject\AESInject\obj\x64\Release\AESInject.pdb

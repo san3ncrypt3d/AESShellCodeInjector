@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AESInject", "AESInject\AESInject.csproj", "{B016DA9E-12A1-4F1D-91A1-D681AE54E92C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B016DA9E-12A1-4F1D-91A1-D681AE54E92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B016DA9E-12A1-4F1D-91A1-D681AE54E92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B016DA9E-12A1-4F1D-91A1-D681AE54E92C}.Debug|x64.ActiveCfg = Debug|x64
+		{B016DA9E-12A1-4F1D-91A1-D681AE54E92C}.Debug|x64.Build.0 = Debug|x64
+		{B016DA9E-12A1-4F1D-91A1-D681AE54E92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B016DA9E-12A1-4F1D-91A1-D681AE54E92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B016DA9E-12A1-4F1D-91A1-D681AE54E92C}.Release|x64.ActiveCfg = Release|x64
+		{B016DA9E-12A1-4F1D-91A1-D681AE54E92C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BABD915-D806-4E98-97E9-DF64C6F1273D}
+	EndGlobalSection
+EndGlobal
